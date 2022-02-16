@@ -1,4 +1,4 @@
-//ZAP408_ÁreaRombo.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
+//ZAP408_ÁreaRombo.cpp : Este programa calcula el área de un rombo con un lado y una altura ingresada por el usuario
 
 #include <iostream>
 
