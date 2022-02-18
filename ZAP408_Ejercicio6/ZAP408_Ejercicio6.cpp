@@ -17,8 +17,8 @@ int main()
     std::cin >> n;
     std::cout << std::endl;
 
-    result = (pow(m, m) * pow(n, n)) * (n / m);
-    compare = sqrt(m);
+    result = (pow(m, m) * pow(n, n)) * (n / m); // Obtenemos el resultado de la ecuación
+    compare = sqrt(m); // Número a comparar 
 
     std::cout << "The result is: " << result << std::endl;
     std::cout << "The number to compare is: " << compare << std::endl << std::endl;
