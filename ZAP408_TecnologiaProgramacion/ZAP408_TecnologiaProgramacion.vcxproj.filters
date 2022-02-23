@@ -18,8 +18,5 @@
     <ClCompile Include="ZAP408_TecnologiaProgramacion.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="ZAP408_Encapsulamiento_y_Herencia.cpp">
-      <Filter>Archivos de origen</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
