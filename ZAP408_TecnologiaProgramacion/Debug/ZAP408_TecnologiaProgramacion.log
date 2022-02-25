@@ -1,0 +1,5 @@
+﻿  ZAP408_TecnologiaProgramacion.cpp
+D:\DSI209\Documentos\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion.cpp(11,34): error C2440: 'inicializando': no se puede realizar la conversión de 'char (*)[45]' a 'char *[45]'
+D:\DSI209\Documentos\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion.cpp(11,24): message : No hay conversiones a tipos de matriz, aunque hay conversiones a referencias o punteros a matrices
+D:\DSI209\Documentos\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion.cpp(12,32): error C2440: 'inicializando': no se puede realizar la conversión de 'char (*)[5]' a 'char *[5]'
+D:\DSI209\Documentos\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion.cpp(12,22): message : No hay conversiones a tipos de matriz, aunque hay conversiones a referencias o punteros a matrices
