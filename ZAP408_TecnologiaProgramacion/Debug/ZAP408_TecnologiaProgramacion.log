@@ -1,3 +1,3 @@
 ﻿  ZAP408_TecnologiaProgramacion.cpp
-D:\DSI209\Documentos\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion.cpp(17,20): warning C4018: '<': no coinciden signed/unsigned
+D:\DSI209\Documentos\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion.cpp(20,20): warning C4018: '<': no coinciden signed/unsigned
   ZAP408_TecnologiaProgramacion.vcxproj -> D:\DSI209\Documentos\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion\Debug\ZAP408_TecnologiaProgramacion.exe
