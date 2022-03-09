@@ -1,0 +1,7 @@
+﻿  ZAP408_TecnologiaProgramacion.cpp
+D:\DSI209\Documentos\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion.cpp(33,1): error C2512: 'Figura': no hay disponible un constructor predeterminado adecuado
+D:\DSI209\Documentos\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion.cpp(6,7): message : vea la declaración de 'Figura'
+D:\DSI209\Documentos\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion.cpp(49,1): error C2512: 'Figura': no hay disponible un constructor predeterminado adecuado
+D:\DSI209\Documentos\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion.cpp(6,7): message : vea la declaración de 'Figura'
+D:\DSI209\Documentos\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion.cpp(64,1): error C2512: 'Figura': no hay disponible un constructor predeterminado adecuado
+D:\DSI209\Documentos\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion\ZAP408_TecnologiaProgramacion.cpp(6,7): message : vea la declaración de 'Figura'
