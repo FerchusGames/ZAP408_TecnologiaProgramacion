@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\DSI209\source\repos\ZAP408_ArreglosMultidimensionales_Ahorcado\Main.cpp(13,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  ZAP408_ArreglosMultidimensionales_Ahorcado.vcxproj -> C:\Users\DSI209\source\repos\ZAP408_ArreglosMultidimensionales_Ahorcado\Debug\ZAP408_ArreglosMultidimensionales_Ahorcado.exe
