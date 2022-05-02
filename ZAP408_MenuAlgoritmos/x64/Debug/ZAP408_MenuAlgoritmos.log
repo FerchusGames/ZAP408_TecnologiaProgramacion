@@ -1,0 +1,14 @@
+﻿  BinarySearch.cpp
+E:\Documents\Amerike\2do Semestre\Tecnología de la programación\ZAP408_02_16_2022\ZAP408_MenuAlgoritmos\HeapSort.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BubbleSort.cpp
+E:\Documents\Amerike\2do Semestre\Tecnología de la programación\ZAP408_02_16_2022\ZAP408_MenuAlgoritmos\HeapSort.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Documents\Amerike\2do Semestre\Tecnología de la programación\ZAP408_02_16_2022\ZAP408_MenuAlgoritmos\BubbleSort.cpp(5,6): warning C4101: 'temp': unreferenced local variable
+  InsertionSort.cpp
+E:\Documents\Amerike\2do Semestre\Tecnología de la programación\ZAP408_02_16_2022\ZAP408_MenuAlgoritmos\HeapSort.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  _Main.cpp
+E:\Documents\Amerike\2do Semestre\Tecnología de la programación\ZAP408_02_16_2022\ZAP408_MenuAlgoritmos\HeapSort.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Menu.cpp
+E:\Documents\Amerike\2do Semestre\Tecnología de la programación\ZAP408_02_16_2022\ZAP408_MenuAlgoritmos\HeapSort.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+E:\Documents\Amerike\2do Semestre\Tecnología de la programación\ZAP408_02_16_2022\ZAP408_MenuAlgoritmos\Menu.cpp(46): warning C4715: 'menu': not all control paths return a value
+  ZAP408_MenuAlgoritmos.vcxproj -> E:\Documents\Amerike\2do Semestre\Tecnología de la programación\ZAP408_02_16_2022\ZAP408_MenuAlgoritmos\x64\Debug\ZAP408_MenuAlgoritmos.exe

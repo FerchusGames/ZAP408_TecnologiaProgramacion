@@ -2,7 +2,7 @@
 
 void swap(int arr[], int a, int b)
 {
-	int temp = a;
+	int temp = arr[a];
 	arr[a] = arr[b];
-	arr[b] = arr[temp];
+	arr[b] = temp;
 }
