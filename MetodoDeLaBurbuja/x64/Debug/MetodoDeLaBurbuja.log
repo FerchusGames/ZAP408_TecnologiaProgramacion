@@ -1,3 +1,0 @@
-﻿  Main.cpp
-C:\Users\DSI209\source\repos\MetodoDeLaBurbuja\Main.cpp(16,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
-  MetodoDeLaBurbuja.vcxproj -> C:\Users\DSI209\source\repos\MetodoDeLaBurbuja\x64\Debug\MetodoDeLaBurbuja.exe
