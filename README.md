@@ -1,4 +1,4 @@
-# ZAP408_TecnologiaProgramacion
+# ZAP408_TecnologiaProgramacion | ArreglosBidimensionalesAhorcado
 
 Este programa genera un juego de ahorcado de 5 letras. Las palabras disponibles son:
 
